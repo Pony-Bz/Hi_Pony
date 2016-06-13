@@ -1,3 +1,4 @@
 # Hi_Pony
-First repository！
-Just for test.
+First branch!
+
+just for test.
